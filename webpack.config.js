@@ -1,11 +1,13 @@
+'use strict'
+
 /*
  * Babel
  */
 const Babel = {
   mode: "development",
-  entry: `./resources/src/js/index.js`,
+  entry: `./src/js/index.js`,
   output: {
-    path: `${__dirname}/resources`
+    path: `${__dirname}`
   },
   module: {
     rules: [
