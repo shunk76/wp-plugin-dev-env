@@ -8,7 +8,6 @@ const autoprefixer = require('autoprefixer')
 const cssnano = require('cssnano')
 const merge = require('gulp-merge-media-queries')
 const browserSync = require('browser-sync').create()
-const path = require('path')
 
 const files_dir = './'
 const src_dir = files_dir + 'src/'
