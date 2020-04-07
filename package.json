@@ -13,8 +13,8 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
-    "autoprefixer": "^9.7.5",
+    "@babel/preset-env": "^7.9.5",
+    "autoprefixer": "^9.7.6",
     "babel-loader": "^8.1.0",
     "browser-sync": "^2.26.7",
     "cssnano": "^4.1.10",
